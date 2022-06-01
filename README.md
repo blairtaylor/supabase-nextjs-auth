@@ -40,3 +40,4 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-public-api-key
 ```sh
 npm run dev
 ```
+"# supabase-nextjs-auth" 
